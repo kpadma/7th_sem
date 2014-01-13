@@ -1,1 +1,1 @@
-# Sample Test
+*Simple javascript programs*
